@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunktombolo_docs=self.webpackChunktombolo_docs||[]).push([[52],{2764:t=>{t.exports=JSON.parse('{"title":"Extras","slug":"/category/extras","permalink":"/docs/category/extras","navigation":{"previous":{"title":"Monitoring","permalink":"/docs/tutorial-basics/monitoring"},"next":{"title":"Integrations","permalink":"/docs/category/integrations"}}}')}}]);
