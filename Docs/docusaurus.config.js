@@ -16,7 +16,7 @@ const config = {
   url: "https://fancma01.github.io/Tombolo-whole/",
   // Set the /<baseUrl>/ pathname under which your site is served
   // For GitHub pages deployment, it is often '/<projectName>/'
-  baseUrl: "/Tombolo-whole/",
+  baseUrl: "/Tombolo-whole",
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
