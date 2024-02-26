@@ -5,7 +5,6 @@ sidebar_position: 1
 # Intro
 
 Let's discover **Tombolo**.
-HEY I MADE SOME CHANGES
 
 ## Getting Started
 
